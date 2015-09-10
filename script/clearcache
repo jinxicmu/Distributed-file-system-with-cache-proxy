@@ -1,0 +1,2 @@
+#!/bin/bash
+rm -rf /home/jereme/Dropbox/Eclipseworkspace/File_Caching_Proxy/tmp/cache/*
